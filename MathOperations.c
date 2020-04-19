@@ -1,3 +1,4 @@
+```C 
 #include "Poly.h"
 
 poly_t PolyAdd(poly_t const polynom1, poly_t const polynom2) {
@@ -68,3 +69,4 @@ int Evaluate(poly_t const polynom, int number) {
   }
   return result;
 }
+```
